@@ -1,7 +1,5 @@
 # WeCart
 
-Team Member: Yongzheng Qi, Qiangqiang Zhang, Yu Fu, Jiapei Li
-
 ## Log in & sign up
 ### log in
 <div>
